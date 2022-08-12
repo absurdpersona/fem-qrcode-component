@@ -21,7 +21,7 @@ body {
     padding: 1rem 1rem;
     border-radius: 5%;
     text-align: center;
-    box-shadow: -3px 3px 1px hsl(0, 0%, 83%);
+    box-shadow: 0.1875rem 0.25rem 1.1875rem rgb(10 45 76 / 12%);
 }
 
 img {
